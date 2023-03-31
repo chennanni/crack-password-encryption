@@ -1,4 +1,4 @@
-# Password Encryption Sample
+# Crack Password Encryption
 
 This is a sample project to demonstrate how to encrypt passwords in a Java application.
 
